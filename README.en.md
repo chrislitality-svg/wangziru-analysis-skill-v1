@@ -6,9 +6,9 @@
 
 ![Version](https://img.shields.io/badge/Edition-1%20%EF%BD%9C%20v1.3-blue) ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey) ![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Claude%20Code%20%7C%20Codex%20%7C%20Cursor-blue) ![AI-flavor%20Check](https://img.shields.io/badge/AI--flavor%20check-zero--dependency-green)
 
-> **This is Edition 1 (V1, i.e. v1.0–v1.3 of the original repo)**: the blueprint-first workflow — produce a "deconstruction blueprint", pass 13 quality gates, then write the script. **Edition 2 (V2, v1.4) reworks the entry into directly writing / rewriting / coaching from your own words** — see 👉 [wangziru-analysis-skill-v2](https://github.com/chrislitality-svg/wangziru-analysis-skill-v2). The two editions are independent; pick the one that fits.
+> **This is Edition 1 (V1, i.e. v1.0–v1.3 of the original repo) — the original edition, the original recipe**: a general-purpose method that doesn't hug the sample; many users report better results with this one, which is why it now lives in its own repo. Workflow is blueprint-style: produce a "deconstruction blueprint", pass 13 quality gates, then write the script. **Edition 2 is the data-enhanced edition** — iterated on more video data, closer to the man himself, but possibly overfitted to the original sample; see [wangziru-analysis-skill-v2](https://github.com/chrislitality-svg/wangziru-analysis-skill-v2). Try both.
 >
-> **这是第一版（V1，对应原仓库 v1.0–v1.3）**：蓝图工作流——先交《拆解蓝图》、过 13 道质量门，再成稿。第二版见 [wangziru-analysis-skill-v2](https://github.com/chrislitality-svg/wangziru-analysis-skill-v2)。
+> **这是第一版（V1，对应原仓库 v1.0–v1.3）——最初版本，原始配方**：方法不贴样本、逻辑更通用，不少小伙伴反馈这版效果更好，因此单独成库。第二版是数据加强版，见 [wangziru-analysis-skill-v2](https://github.com/chrislitality-svg/wangziru-analysis-skill-v2)。两版建议都试试。
 
 An **Agent Skill** for AI coding assistants (Claude Code / Codex / Cursor, etc.): use Wang Ziru's expression system to turn a topic that "everyone talks about but nobody explains clearly" into **a thinking framework your audience can retell**, then into a script you can read aloud as-is. It also audits existing scripts and rewrites AI-flavored drafts into human speech.
 
